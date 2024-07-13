@@ -1,7 +1,7 @@
 # Tic-Tac-Toe game built using React JS
 
 ## Live Link
-View the [Live Project]()
+View the [Live Project](https://tic-tac-toe-28.netlify.app/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
